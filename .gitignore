@@ -1,2 +1,4 @@
 # Obsidian files
-.obsidian
+.obsidian/
+.trash/
+.DS_Store
